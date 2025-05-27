@@ -32,7 +32,7 @@ ebay-scraper/
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ebay-scraper.git
+https://github.com/rp42dev/simple-ebay-product-scraper.git
 cd ebay-scraper
 ```
 
